@@ -6,9 +6,9 @@ Deep Learning (IF25-40401) · Teknik Informatika ITERA · Semester Ganjil 2026/2
 
 | No | Nama Lengkap | NIM | Kontribusi utama |
 |----|--------------|-----|------------------|
-| 1  |              |     |                  |
-| 2  |              |     |                  |
-| 3  |              |     |                  |
+| 1  |Louis Hutabarat|123140052|                  |
+| 2  |Pradana Figo Ariasya|123140063|                  |
+| 3  |Giovan Lado|123140068|          |
 
 ## Ringkasan Pendekatan
 
