@@ -1,4 +1,4 @@
-# Studio 2 — Klasifikasi Sampah · 9 Naga
+# Studio 2 — Klasifikasi Sampah · Figo bilang nama kelompoknya 9 naga aja
 
 Deep Learning (IF25-40401) · Teknik Informatika ITERA · Semester Ganjil 2026/2027
 
