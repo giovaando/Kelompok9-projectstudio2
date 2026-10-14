@@ -1,0 +1,42 @@
+# ==========================================
+# DATASET & BERKAS BESAR (Dilarang di-push)
+# ==========================================
+data/
+data_raw/
+dataset/
+dataset_sampah_local/
+my_train/
+my_val/
+*.zip
+*.tar.gz
+*.rar
+
+# ==========================================
+# PYTHON & VIRTUAL ENVIRONMENT
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# ==========================================
+# JUPYTER & COLAB
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# IDE & SYSTEM FILES
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# CHECKPOINTS / LOGS SEMENTARA
+# ==========================================
+checkpoints/
+runs/
+*.log
